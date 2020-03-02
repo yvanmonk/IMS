@@ -1,0 +1,31 @@
+.custom-search-input {
+  border: none;
+  color:#E1DFDF;
+  /* border-bottom: 2px solid #E1DFDF; */
+  margin-top: 3px;
+  background: transparent;
+  outline: none;
+  font: Nunito;
+  /* min-width: 280px; */
+  min-width: 353px;
+  text-indent: 40px;
+}
+
+.search-area {
+  display: inline-block;
+  background-color: #7481CC;
+  border-radius : 20px 20px 20px 20px;
+  height:35px;
+  float:left;
+  /* margin-right: -30px; */
+}
+
+.search-icon {
+  font-size: 18px;
+  /* margin-left:10px; */
+  color:#E1DFDF;
+  margin-right: -25px;
+  margin-left: 15px;
+  margin-top: -1px;
+}
+

@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+	.texte{
+		font-family: 'Nunito', sans-serif;
+	}
+	.textes{
+		font-family: 'Nunito', sans-serif;
+		color: #5A69C1;
+	}
+	.error{
+		color: #b45b59;
+		background: #f2dede;
+		padding: 5px;
+		border-radius: 0 0 5px 5px;
+	}
